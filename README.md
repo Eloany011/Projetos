@@ -1,7 +1,5 @@
 couseara assigment 2 university of toronto
-Preface
-Requirements
-You need to use Python 3 for this assignment. Python 2 is not suitable.
+
 
 Required Preparation
 In order to complete this assignment, you'll probably need to have completed the second module. However, you can get a good start understanding the assignment even having completed just the first module.
